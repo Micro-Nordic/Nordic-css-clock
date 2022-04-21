@@ -15,17 +15,15 @@
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/9dexckH.png"> Description</h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla elit, in mollis mi sollicitudin sed. Aliquam auctor mauris lobortis tempor feugiat. Curabitur nec tempus lorem. Aenean condimentum et felis eget ultricies. Phasellus vulputate elit nibh, eu rhoncus augue rhoncus sit amet.
+This is a nordic version of [clock by Hugh Dai](https://codepen.io/HughDai/pen/MKKXJp). + some waves from [Simple CSS Waves | Mobile & Full width by
+Goodkatz](https://codepen.io/goodkatz/pen/LYPGxQz).<br>
+You can use this as your desktop wallpaper, if you used wallpaper engine or any other live wallpaper software, and you can use [lively wallpaper](https://rocksdanister.github.io/lively/), it is free and open-source 😉
 
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/TzoPeWE.png"> Utilization</h2>
 
-1. copy *file.css* and paste it to **folder\theme**
-2. run *app.exe*
-3. then... idk 😅
+1. nothing here, if you had a problem using it, then open an issue.
 
-<h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/Ql449i5.png"> Gallery</h2>
 
-```Delete this section if the preview was enough```
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/89PM7QC.png"> Author</h2>
 
@@ -37,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur nulla el
 <a alt="Abod1960" href="https://github.com/Abod1960">Abod1960</a> |
 
 
-[+ some awesome contributors](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/graphs/contributors)
+[+ some awesome contributors](https://github.com/Micro-Nordic/Nordic-css-clock/graphs/contributors)
   
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/zaTDMta.png"> Show your support</h2>
 
@@ -46,6 +44,6 @@ Give a ⭐️ if you like this port!
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="2%" alt="Abod1960" src="https://i.imgur.com/oUWxDRu.png"> License</h2>
 
 Copyright © 2022 [Abod1960](https://github.com/Abod1960)<br>
-This project is licensed under the [MIT](https://github.com/Micro-Nordic/Nord-Circular-Calendar-Clock-Display/blob/main/LICENSE) license.<br>
-```Delete this section if there were no license```
+This project is licensed under the [MIT](https://github.com/Micro-Nordic/Nordic-css-clock/blob/main/LICENSE) license.<br>
+
 
