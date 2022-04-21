@@ -3,13 +3,13 @@
 </p>
 <br>
 <h2 align="center"> <b>Micro Nordic Port</b> </h2>
-<p align="center">"The repo name" 🏔
+<p align="center">Nordic css clock 🏔
 </p>
 
 <br>
 <div align="center">
   
-![1](https://i.imgur.com/2l0E1PD.png)
+![1](https://i.imgur.com/zZG2moX.png)
 
 </div>
 
