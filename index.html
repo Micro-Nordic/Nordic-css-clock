@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en" >
+<!-- partial:index.partial.html -->
+<head>
+  <meta charset="utf-8">
+  <title>Nordic css clock</title>
+  <style id="clock-animations"></style>
+  <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+  <section class="flex">
+  <div class="clock-wrapper">
+        <div class="clock-base">
+            <div class="clock-dial">
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+            <div class="clock-indicator"></div>
+        </div>
+            <div class="clock-hour"></div>
+            <div class="clock-minute"></div>
+            <div class="clock-second"></div>
+            <div class="clock-center"></div>
+        </div>
+    </div>
+    <div class="waves_con">
+      <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+        viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
+        <defs>
+          <path fill="#4C566A86" id="gentle-wave"
+            d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+          <path fill="#4C566A6c" id="gentle-wave1"
+            d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+          <path fill="#4C566A53" id="gentle-wave2"
+            d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+          <path fill="#4C566A21" id="gentle-wave3"
+            d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
+        </defs>
+        <g class="parallax">
+          <use xlink:href="#gentle-wave" x="48" y="0" />
+          <use xlink:href="#gentle-wave1" x="48" y="3" />
+          <use xlink:href="#gentle-wave2" x="48" y="5" />
+          <use xlink:href="#gentle-wave3" x="48" y="7" />
+        </g>
+      </svg>
+    </div>
+  </section>
+<!-- partial -->
+  <script  src="./script/script.js"></script>
+
+</body>
+</html>
