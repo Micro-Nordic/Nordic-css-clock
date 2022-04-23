@@ -3,7 +3,7 @@
 </p>
 <br>
 <h2 align="center"> <b>Micro Nordic Port</b> </h2>
-<p align="center">Nordic css clock 🏔
+<p align="center">Nordic-css-clock 🏔
 </p>
 
 <br>
